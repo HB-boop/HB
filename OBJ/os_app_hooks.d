@@ -1,0 +1,16 @@
+..\obj\os_app_hooks.o: ..\uCOSIII\APP\os_app_hooks.c
+..\obj\os_app_hooks.o: ..\uCOSIII\uC-Source\os.h
+..\obj\os_app_hooks.o: ..\uCOSIII\APP\os_cfg.h
+..\obj\os_app_hooks.o: ..\uCOSIII\uC-CPU\cpu.h
+..\obj\os_app_hooks.o: ..\uCOSIII\uC-CPU\cpu_def.h
+..\obj\os_app_hooks.o: ..\uCOSIII\APP\cpu_cfg.h
+..\obj\os_app_hooks.o: ..\uCOSIII\uC-CPU\cpu_core.h
+..\obj\os_app_hooks.o: ..\uCOSIII\uC-LIB\lib_def.h
+..\obj\os_app_hooks.o: ..\uCOSIII\uC-LIB\lib_mem.h
+..\obj\os_app_hooks.o: ..\uCOSIII\uC-CPU\cpu_core.h
+..\obj\os_app_hooks.o: ..\uCOSIII\APP\lib_cfg.h
+..\obj\os_app_hooks.o: ..\uCOSIII\uC-LIB\lib_str.h
+..\obj\os_app_hooks.o: ..\uCOSIII\uC-LIB\lib_ascii.h
+..\obj\os_app_hooks.o: ..\uCOSIII\uC-Source\os_type.h
+..\obj\os_app_hooks.o: ..\uCOSIII\uC-Ports\os_cpu.h
+..\obj\os_app_hooks.o: ..\uCOSIII\APP\os_app_hooks.h
